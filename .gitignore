@@ -1,0 +1,7 @@
+.dependencies/
+artifacts/
+**/bin/
+**/obj/
+*.user
+tools/inspection/game-metadata.txt
+tools/inspection/camera-il.txt
